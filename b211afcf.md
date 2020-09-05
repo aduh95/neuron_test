@@ -2,7 +2,6 @@
 date: 2020-09-05T12:49
 ---
 
-# New zettel: b211afcf
+# Test note
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+Zettelkasten is quite new to me, I'm still figuring it out if it would actually help me.
